@@ -1,0 +1,17 @@
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.exe.config
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.exe
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.pdb
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\CapaVista.dll
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\CapaControlador.dll
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\CapaModelo.dll
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\CapaVista.pdb
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\CapaControlador.pdb
+C:\systemas\EjecucionDll\EjecucionDll\bin\Debug\CapaModelo.pdb
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.AssemblyReference.cache
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.Form1.resources
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.Properties.Resources.resources
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.GenerateResource.cache
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.CoreCompileInputs.cache
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.CopyComplete
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.exe
+C:\systemas\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.pdb

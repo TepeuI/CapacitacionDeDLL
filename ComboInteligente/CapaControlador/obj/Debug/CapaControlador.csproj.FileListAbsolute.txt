@@ -1,0 +1,9 @@
+C:\systemas\ComboInteligente\CapaControlador\bin\Debug\CapaControlador.dll
+C:\systemas\ComboInteligente\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\systemas\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\systemas\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.dll
+C:\systemas\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\systemas\ComboInteligente\CapaControlador\bin\Debug\CapaModelo.dll
+C:\systemas\ComboInteligente\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\systemas\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\systemas\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
